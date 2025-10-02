@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Airbyte-auto",
+    "ourLatest": "0.60.1",
+    "enabled": true,
+    "category": "Pipeline Orchestration",
+    "helm": {
+      "name": "airbyte",
+      "version": "latest"
+    },
+    "image": {
+      "backgroundColor": "#fff",
+      "url": "https://github.com/user-attachments/assets/1e241837-c0a3-4d06-8b81-a30c4a9eb401"
+    },
+    "license": {
+      "type": "MIT License & Elastic License 2.0 (ELv2)",
+      "url": "https://raw.githubusercontent.com/airbytehq/airbyte/master/LICENSE"
+    }
+  },
+  {
+    "name": "Rill-auto",
+    "ourLatest": "0.46.2",
+    "enabled": true,
+    "category": "Business Intelligence",
+    "helm": {
+      "name": "rill",
+      "version": "latest"
+    },
+    "image": {
+      "backgroundColor": "#fff",
+      "url": "https://github.com/devsentient/cdn/assets/69875491/545101c9-9dfd-4619-bc8e-922121fe663a"
+    },
+    "license": {
+      "type": "Apache License 2.0",
+      "url": "https://raw.githubusercontent.com/rilldata/rill/main/LICENSE.md"
+    }
+  }
+]

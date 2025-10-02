@@ -1,0 +1,64 @@
+{
+	"tutorials": [
+		{
+			"title": "Register your local machine to SSH into Sessions",
+			"description": "Set up your local machine for SSH access to connect to your Neopilot sessions, enabling development remotely on your local machine.",
+			"video_url": "https://github.com/user-attachments/assets/cb95f4a3-a337-49da-acbe-b65a398a5cfb",
+			"tutorial_id": "register_your_local_machine_to_SSH_into_sessions_cb95f4a3-a337-49da-acbe-b65a398a5cfb",
+			"component": "ssh_key_register"
+		},
+		{
+			"title": "Link to a new Git Repository",
+			"description": "Connect to multiple Git repositories and access your code in Neopilot workloads",
+			"video_url": "https://github.com/user-attachments/assets/b5d6f290-8716-42de-be2b-20b1b1f0a5cb",
+			"tutorial_id": "link_to_a_new_git_repository_b5d6f290-8716-42de-be2b-20b1b1f0a5cb",
+			"component": "link_git_repository"
+		},
+		{
+			"title": "How to Build an Effective GraphRAG System for Your Knowledge Base",
+			"description": "Build a GraphRAG system for efficient information retrieval on Neopilot platform using MinIO, Neo4j, Ollama, and Open WebUI",
+			"usage_docs_url": "https://www.notion.so/neopilot/How-to-Build-an-Effective-GraphRAG-System-for-Your-Knowledge-Base-185d36b55090802786e1f0c568391aa9",
+			"preview_image_url": "https://github.com/user-attachments/assets/61501a57-e929-4e41-9082-242e0450c4d2",
+			"tutorial_id": "how_to_build_an_effective_graphRAG_system_for_your_knowledge_base_171d36b5509080cc85c0f4fea6e60257",
+			"component": "create_graph_rag"
+		},
+		{
+			"title": "Chatbot for beginners: Build a RAG chatbot with LLMs",
+			"description": "Build a Dify RAG chatbot for PDF files",
+			"usage_docs_url": "https://www.notion.so/neopilot/Chatbot-for-Beginners-Build-a-RAG-Chatbot-with-LLMs-32f896e698d8433480715129fad4d2ee",
+			"preview_image_url": "https://github.com/user-attachments/assets/1cda9a73-d2f8-4f9c-bdd0-31d7b66b52df",
+			"tutorial_id": "chatbot_for_beginners_build_a_rag_chatbot_with_llms_32f896e698d8433480715129fad4d2ee",
+			"component": "dify_for_beginners_build_rag_chatbot"
+		},
+		{
+			"title": "[Advanced] Build a RAG agent with LLMs and vector database",
+			"description": "Build a Dify RAG agent for Markdown files using Airbyte, MinIO, Qdrant, and Neopilot microservices",
+			"usage_docs_url": "https://www.notion.so/neopilot/Advanced-Build-a-RAG-Agent-with-LLMs-and-Vector-Database-0b58a195ac6545be8fb7ef8c26dfcf44",
+			"preview_image_url": "https://github.com/user-attachments/assets/00770278-f61d-41e8-a2fa-4e53a9d67cea",
+			"tutorial_id": "advanced_build_a_rag_agent_with_llms_and_vector_database_0b58a195ac6545be8fb7ef8c26dfcf44",
+			"component": "dify_advanced_build_rag_agent"
+		},
+		{
+			"title": "NLP SQL Chatbot in Dify using OpenSource model",
+			"description": "Build a chatbot that answers questions for tabular data in Dify using open-souce LLM model",
+			"usage_docs_url": "https://www.notion.so/neopilot/NLP-SQL-Chatbot-in-Dify-using-OpenSource-model-25b634bb4fee404488b358406c5d4d81",
+			"preview_image_url": "https://github.com/user-attachments/assets/37c97a2f-2560-4faf-9d3f-b7ed900c77c0",
+			"tutorial_id": "nlp_sql_chatbot_in_dify_using_open_source_models_25b634bb4fee404488b358406c5d4d81",
+			"component": "dify_nlpsql_agent"
+		},
+		{
+			"title": "Create a Container Image",
+			"description": "Build a container image for development and workloads on Neopilot Platform",
+			"video_url": "https://github.com/user-attachments/assets/5e774d68-c2bb-4078-b1af-18a301a5d08a",
+			"tutorial_id": "create_container_image_5e774d68-c2bb-4078-b1af-18a301a5d08a",
+			"component": "create_container_image"
+		},
+		{
+			"title": "Create an Environment Config",
+			"description": "Create an environment config for development and workloads on Neopilot Platform",
+			"video_url": "https://github.com/user-attachments/assets/8588a161-6716-4df2-b6a7-b4f2f59d0ca4",
+			"tutorial_id": "create_env_config_8588a161-6716-4df2-b6a7-b4f2f59d0ca4",
+			"component": "create_env_config"
+		}
+	]
+}

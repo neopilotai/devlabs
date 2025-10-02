@@ -1,0 +1,401 @@
+{
+  "core": [
+    {
+      "name": "Dify",
+      "url": "https://github.com/langgenius/dify",
+      "ourLatest": "1.7.0"
+    },
+    {
+      "name": "n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "ourLatest": "1.107.4"
+    },
+    {
+      "name": "ollama",
+      "url": "https://github.com/ollama/ollama",
+      "ourLatest": "v0.5.7"
+    },
+    {
+      "name": "Qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "ourLatest": "1.8.1"
+    },
+    {
+      "name": "Airbyte",
+      "url": "https://github.com/airbytehq/airbyte",
+      "ourLatest": "1.5.1"
+    },
+    {
+      "name": "Grafana",
+      "url": "https://github.com/grafana/grafana",
+      "ourLatest": "10.4.0"
+    },
+    {
+      "name": "istio",
+      "url": "https://github.com/istio/istio",
+      "ourLatest": "1.22.0"
+    },
+    {
+      "name": "kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "ourLatest": "v1.30.1"
+    },
+    {
+      "name": "Alert Manager",
+      "url": "https://github.com/prometheus/alertmanager",
+      "ourLatest": "v0.21.0"
+    }
+  ],
+  "other": [
+    {
+      "name": "keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "ourLatest": "21.1"
+    },
+    {
+      "name": "Supabase",
+      "url": "https://github.com/supabase/postgres",
+      "ourLatest": "15.1.1"
+    },
+    {
+      "name": "MinIO",
+      "url": "https://github.com/minio/minio",
+      "ourLatest": "2024.2.4-debian-11-r0"
+    },
+    {
+      "name": "Milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "ourLatest": "2.4.3"
+    },
+    {
+      "name": "Superset",
+      "url": "https://github.com/apache/superset",
+      "ourLatest": "3.1.0"
+    },
+    {
+      "name": "Windmill",
+      "url": "https://github.com/windmill-labs/windmill",
+      "ourLatest": "1.367.2"
+    },
+    {
+      "name": "MLflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "ourLatest": "2.15.1"
+    },
+    {
+      "name": "ActivePieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "ourLatest": "0.24.1"
+    },
+    {
+      "name": "Bytebase",
+      "url": "https://github.com/bytebase/bytebase",
+      "ourLatest": "2.16.0"
+    },
+    {
+      "name": "ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "ourLatest": "23.7.4"
+    },
+    {
+      "name": "Datahub",
+      "url": "https://github.com/datahub-project/datahub",
+      "ourLatest": "0.13.2"
+    },
+    {
+      "name": "Appsmith",
+      "url": "https://github.com/appsmithorg/appsmith",
+      "ourLatest": "1.18"
+    },
+    {
+      "name": "Prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "ourLatest": "2.19.2"
+    },
+    {
+      "name": "Airflow",
+      "url": "https://github.com/apache/airflow",
+      "ourLatest": "2.9.2"
+    },
+    {
+      "name": "Meltano",
+      "url": "https://github.com/meltano/meltano",
+      "ourLatest": "3.4.2"
+    },
+    {
+      "name": "OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "ourLatest": "1.4.5"
+    },
+    {
+      "name": "Langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "ourLatest": "3.106.1"
+    },
+    {
+      "name": "InfluxDB",
+      "url": "https://github.com/influxdata/influxdb",
+      "ourLatest": "v2.7.4"
+    },
+    {
+      "name": "ArgoCD",
+      "url": "https://github.com/argoproj/argo-cd",
+      "ourLatest": "2.12.0"
+    },
+    {
+      "name": "Bitwarden",
+      "url": "https://github.com/bitwarden/server",
+      "ourLatest": "2024.7.2"
+    },
+    {
+      "name": "ChromaDB",
+      "url": "https://github.com/chroma-core/chroma",
+      "ourLatest": "0.4.24"
+    },
+    {
+      "name": "ClamAV",
+      "url": "https://github.com/Cisco-Talos/clamav",
+      "ourLatest": "1.2"
+    },
+    {
+      "name": "CloudSql-Proxy",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-sql-proxy",
+      "ourLatest": "2.8"
+    },
+    {
+      "name": "Dagster",
+      "url": "https://github.com/dagster-io/dagster",
+      "ourLatest": "1.7.8"
+    },
+    {
+      "name": "DCGM-Exporter",
+      "url": "https://github.com/nvidia/dcgm-exporter/",
+      "ourLatest": "3.4.0"
+    },
+    {
+      "name": "falco",
+      "url": "https://github.com/falcosecurity/falco",
+      "ourLatest": "0.38.1"
+    },
+    {
+      "name": "flink",
+      "url": "https://github.com/apache/flink",
+      "ourLatest": "1.20.0"
+    },
+    {
+      "name": "h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "ourLatest": "1.4.1"
+    },
+    {
+      "name": "h2o-gpt",
+      "url": "https://github.com/h2oai/h2ogpt",
+      "ourLatest": "0.2.0"
+    },
+    {
+      "name": "harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "ourLatest": "2.5.2"
+    },
+    {
+      "name": "hyperdx",
+      "url": "https://github.com/hyperdxio/hyperdx",
+      "ourLatest": "1.9.0"
+    },
+    {
+      "name": "influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "ourLatest": "2.7.4"
+    },
+    {
+      "name": "kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "ourLatest": "0.17.11"
+    },
+    {
+      "name": "kiali",
+      "url": "https://github.com/kiali/kiali",
+      "ourLatest": "v1.39"
+    },
+    {
+      "name": "label-studio",
+      "url": "https://github.com/HumanSignal/label-studio",
+      "ourLatest": "1.12.0.post0"
+    },
+    {
+      "name": "litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "ourLatest": "v1.76.1-stable"
+    },
+    {
+      "name": "local-ai",
+      "url": "https://github.com/mudler/LocalAI",
+      "ourLatest": "v2.8.2"
+    },
+    {
+      "name": "metaflow",
+      "url": "https://github.com/Netflix/metaflow",
+      "ourLatest": "2.3.1"
+    },
+    {
+      "name": "node-red",
+      "url": "https://github.com/node-red/node-red",
+      "ourLatest": "3.1.3"
+    },
+    {
+      "name": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "ourLatest": "0.6.13"
+    },
+    {
+      "name": "promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "ourLatest": "0.53.0"
+    },
+    {
+      "name": "pypiserver",
+      "url": "https://github.com/pypiserver/pypiserver",
+      "ourLatest": "v2.1.1"
+    },
+    {
+      "name": "retool",
+      "url": "https://github.com/tryretool/retool-helm",
+      "ourLatest": "3.52.14"
+    },
+    {
+      "name": "rill",
+      "url": "https://github.com/rilldata/rill",
+      "ourLatest": "0.46.2"
+    },
+    {
+      "name": "snowplow",
+      "url": "https://github.com/snowplow/snowbridge",
+      "ourLatest": "2.2.0"
+    },
+    {
+      "name": "sonarQube",
+      "url": "https://github.com/SonarSource/sonarqube",
+      "ourLatest": "10.6.0"
+    },
+    {
+      "name": "dbt",
+      "ourLatest": "1.8.0",
+      "url": "https://github.com/dbt-labs/dbt-core"
+    },
+    {
+      "name": "vanna",
+      "ourLatest": "0.6.2",
+      "url": "https://github.com/vanna-ai/vanna"
+    },
+    {
+      "name": "velero",
+      "url": "https://github.com/vmware-tanzu/velero",
+      "ourLatest": "1.13.0"
+    },
+    {
+      "name": "xinference",
+      "url": "https://github.com/xorbitsai/inference",
+      "ourLatest": "0.14.1"
+    },
+    {
+      "name": "gorrila-cli",
+      "url": "https://github.com/gorilla-llm/gorilla-cli",
+      "ourLatest": "0.0.9"
+    },
+    {
+      "name": "aider",
+      "url": "https://github.com/paul-gauthier/aider",
+      "ourLatest": "0.45.0"
+    },
+    {
+      "name": "Mattermost",
+      "url": "https://github.com/mattermost/mattermost",
+      "ourLatest": "9.7.2"
+    },
+    {
+      "name": "uv",
+      "url": "https://github.com/astral-sh/uv",
+      "ourLatest": "0.2.35"
+    },
+    {
+      "name": "nextcloud",
+      "url": "https://github.com/nextcloud/docker",
+      "ourLatest": "28.0.3"
+    },
+    {
+      "name": "LitGPT",
+      "url": "https://github.com/Lightning-AI/litgpt",
+      "ourLatest": "0.4.9"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://gitlab.com/gitlab-org/gitlab",
+      "ourLatest": "17.4"
+    },
+    {
+      "name": "langflow-ide",
+      "url": "https://github.com/langflow-ai/langflow",
+      "ourLatest": "1.1.1"
+    },
+    {
+      "name": "langflow-runtime",
+      "url": "https://github.com/langflow-ai/langflow",
+      "ourLatest": "1.1.0"
+    },
+    {
+      "name": "Neo4j",
+      "url": "https://github.com/neo4j/neo4j",
+      "ourLatest": "5.22.0"
+    },
+    {
+      "name": "taipy",
+      "url": "https://github.com/Avaiga/taipy",
+      "ourLatest": "3.1.1"
+    },
+    {
+      "name": "Dremio",
+      "url": "https://github.com/dremio/dremio-cloud-tools",
+      "ourLatest": "20.1.0"
+    },
+    {
+      "name": "TabbyML",
+      "url": "https://github.com/TabbyML/tabby",
+      "ourLatest": "0.15.0"
+    },
+    {
+      "name": "Mongodb",
+      "url": "https://github.com/mongodb/mongo",
+      "ourLatest": "r7.0.15-rc1"
+    },
+    {
+      "name": "Nessie",
+      "url": "https://github.com/projectnessie/nessie",
+      "ourLatest": "0.96.1"
+    },
+    {
+      "name": "SurrealDB",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "ourLatest": "v2.1.2"
+    },
+    {
+      "name": "screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "ourLatest": "0.0.1"
+    },
+    {
+      "name": "Keep",
+      "url": "https://github.com/keephq/keep",
+      "ourLatest": "0.33.8"
+    },
+    {
+      "name": "WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "ourLatest": "0.14.3"
+    },
+    {
+      "name": "OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "ourLatest": "0.43.0"
+    }
+  ]
+}

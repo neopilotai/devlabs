@@ -1,0 +1,5 @@
+{
+  "images": [
+    "gcr.io/devsentient-infra/dev/jhub-basic:v1.0.0"
+  ]
+}
