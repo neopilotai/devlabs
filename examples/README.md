@@ -5,15 +5,15 @@ Also, we would like to list here interesting content created by the community. I
 
 | Notebook         | Description                                         |
 | :----------------| :--------------------------------------------------------------------------- |
-| [Data processing with DASK](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/data_prep/dask_group_sort.ipynb) | Speed up data preprocessing with distributed DASK cluster on Hyperplane | 
-| [Data prepcessing with Ray](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/data_prep/ray_data_processing.ipynb) | speed up data preprocessing with distributed Ray cluster on Hyperplane | 
-| [Data preprocessing with Spark](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/data_prep/spark_on_ray_data_processing.ipynb) | speed up data preprocessing with distributed spark on Ray clusters on Hyperplane | 
-| [Question answering Tensorflow Training with Ray ](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/training/ray_tf_nlp.ipynb) | Tensorflow training with distributed hyperparameter tuning on Ray cluster |
-| [CIFAR Pytorch Training with Ray ](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/training/ray_training_torch.ipynb) | pytorch training with distributed hyperparameter tuning and MLFlow on Ray cluster |
-| [Ray Tune with MLFlow](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/training/ray_mlflow.ipynb) | Simple Ray Tune example wth MLFlow Tracking |
-| [Ray Tune Bayesian Optimization](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/training/ray_tune_demo.ipynb) | A collection of Ray Tune scheduler examples |
-| [Speed up inference on large data with DASK ](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/inference/batch_inference) | Advance example on speed inference with DASK by preload large model to DASK workers |
+| [Data processing with DASK](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/data_prep/dask_group_sort.ipynb) | Speed up data preprocessing with distributed DASK cluster on Hyperplane | 
+| [Data prepcessing with Ray](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/data_prep/ray_data_processing.ipynb) | speed up data preprocessing with distributed Ray cluster on Hyperplane | 
+| [Data preprocessing with Spark](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/data_prep/spark_on_ray_data_processing.ipynb) | speed up data preprocessing with distributed spark on Ray clusters on Hyperplane | 
+| [Question answering Tensorflow Training with Ray ](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/training/ray_tf_nlp.ipynb) | Tensorflow training with distributed hyperparameter tuning on Ray cluster |
+| [CIFAR Pytorch Training with Ray ](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/training/ray_training_torch.ipynb) | pytorch training with distributed hyperparameter tuning and MLFlow on Ray cluster |
+| [Ray Tune with MLFlow](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/training/ray_mlflow.ipynb) | Simple Ray Tune example wth MLFlow Tracking |
+| [Ray Tune Bayesian Optimization](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/training/ray_tune_demo.ipynb) | A collection of Ray Tune scheduler examples |
+| [Speed up inference on large data with DASK ](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/inference/batch_inference) | Advance example on speed inference with DASK by preload large model to DASK workers |
 | [Triton model prepration ](https://github.com/neopilotai/devlabs/tree/main/examples/example_notebooks/serving/triton) | Convert Pytorch Keras sklearn and xgboost model checkpoints for Triton serving |
 | [Hyperplane Triton service App ](https://github.com/neopilotai/devlabs/tree/main/examples/example_notebooks/serving/triton) | Triton client in a flask APP to be served as a Hyperplane service|
 | [Simple pipeline job ](https://github.com/neopilotai/devlabs/tree/main/examples/example_notebooks/pipelines/a_simple_pipelinen) | A basic pipeline to automate a jupyter notebook with parameterization |
-| [GraphQL within jupyter ](https://github.com/neopilotai/devlabs/blob/main/example/example_notebooks/utils/submit_graphql_with_python.ipynb) | Submit pipeline jobs using graphql queries within jupyter a notebook
+| [GraphQL within jupyter ](https://github.com/neopilotai/devlabs/blob/main/examples/example_notebooks/utils/submit_graphql_with_python.ipynb) | Submit pipeline jobs using graphql queries within jupyter a notebook
