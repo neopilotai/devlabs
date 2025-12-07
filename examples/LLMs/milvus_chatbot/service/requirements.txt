@@ -1,7 +1,7 @@
-langchain==0.0.274
-text-generation==0.6.0
+langchain==0.2.5
+text-generation==0.7.0
 pymilvus==2.3.0
 python-dotenv==1.0.0
-grpcio==1.56.0
+grpcio==1.56.2
 streamlit
 sentence_transformers
