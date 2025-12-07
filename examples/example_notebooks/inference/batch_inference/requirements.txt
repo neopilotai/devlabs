@@ -1,4 +1,4 @@
 s3fs==2021.08.0
-pyarrow==5.0.0
-transformers==4.11.3
-tensorflow==2.6.0
+pyarrow==14.0.1
+transformers==4.53.0
+tensorflow==2.12.1

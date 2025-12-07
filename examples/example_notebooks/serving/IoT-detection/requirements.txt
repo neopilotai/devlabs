@@ -1,5 +1,5 @@
 seaborn
-mxnet==1.8.0
+mxnet==1.9.1
 autogluon
 imblearn
 fastapi==0.70.0
